@@ -495,8 +495,8 @@
       filter: @text-filter;
     }
 
-    /* Read emails */
-    .yO {
+    /* All Emails */
+    .yO, .zA, .Wg {
       background-color: @base;
       color: @text;
 
